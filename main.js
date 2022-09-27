@@ -1,9 +1,11 @@
 let food = [
 	"hamberger",
-	"chiken"
+	"chiken",
+	"pizza"
 ];
 
 let animals = [
 	"cat", 
 	"dog",
+	"tiger",
 ]
